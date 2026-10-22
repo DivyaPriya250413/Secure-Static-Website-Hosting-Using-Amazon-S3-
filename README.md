@@ -6,6 +6,12 @@ Today, I worked on hosting a static website on Amazon Web Services (AWS) S3 by u
 
 Amazon S3 | AWS IAM | Bucket Policies | Cloud Storage | AWS Cloud
 
+**🎥 Project Walkthrough Video:**
+
+🔹I’ve also included a walkthrough video demonstrating the project implementation, from creating the S3 bucket and uploading the website files to configuring permissions and verifying access
+
+🔗 https://lnkd.in/p/dKJr74iS
+
 **💻 What I implemented:**
 
 ✅ Created an S3 bucket and uploaded website files
@@ -22,11 +28,5 @@ Amazon S3 | AWS IAM | Bucket Policies | Cloud Storage | AWS Cloud
 
 🔹I also explored the cost aspects of hosting a static website on Amazon S3, including storage, requests, and data transfer. 
 🔹The overall cost depends on usage and the AWS pricing plan.
-
-**🎥 Project Walkthrough Video:**
-
-🔹I’ve also included a walkthrough video demonstrating the project implementation, from creating the S3 bucket and uploading the website files to configuring permissions and verifying access
-
-🔗 https://lnkd.in/p/dKJr74iS
 
 This hands-on project strengthened my understanding of cloud storage, access management, security best practices, and static website hosting on AWS.
